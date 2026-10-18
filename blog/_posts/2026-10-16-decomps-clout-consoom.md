@@ -349,7 +349,7 @@ I will say, this is my first time writing an "article", in the sense of, not wri
 
 When I finished writing this text, I felt.. liberated. In the midst of people flooding the decompilation space, begging for more and more, I became a voice for those who could not be heard.
 
-Something special is that this was the first time I put myself in a position of "authority". I have to thank my teacher for my humanities course, who had us read Dr. Ann M. Penrose and Dr. Cheryl Geisler's ["Reading and Writing Without Authority"](https://www.jstor.org/stable/358762). The purpose was to help us with writing and get us used to the idea of placing texts in conversation with each other, and then have us,  as the writer, make our own claim to join the conversation. This is what inspired the "Establishing my authority" section, which was *really* crucial for this article. When hundreds, if not thousands of people are suddenly declaring themselves "skilled" in decompilation, it was more important than ever for me to establish my own authority and say "I know what I am talking about, and here is why you should listen to what I have to say".
+Something special is that this was the first time I put myself in a position of "authority". I have to thank my humanities course professor, Dr. Burke, who had us read Dr. Ann M. Penrose and Dr. Cheryl Geisler's ["Reading and Writing Without Authority"](https://www.jstor.org/stable/358762). The purpose was to help us with writing and get us used to the idea of placing texts in conversation with each other, and then have us,  as the writer, make our own claim to join the conversation. This is what inspired the "Establishing my authority" section, which was *really* crucial for this article. When hundreds, if not thousands of people are suddenly declaring themselves "skilled" in decompilation, it was more important than ever for me to establish my own authority and say "I know what I am talking about, and here is why you should listen to what I have to say".
 
 Immediately, I received feedback, both positive and negative. An email saying "You missed this one detail about your section on recompilation". The Discord message saying "Here is a counterexample of your argument about people not doing decompilations only by themselves." The people who pointed out grammar errors. This was more than just people saying "I liked this article", or "good read" (though, it did make me feel good to see that). I had people from varying areas of the community who *wanted* to improve my writing.
 
@@ -361,7 +361,7 @@ You can track diffs between individual revisions by looking at the [GitHub commi
 
 ## Special Thanks
 ### Before Writing
-- My humanities teacher, who I will not name unless I am given permission to do so
+- [Dr. Michelle Burke](https://michelleyburke.com) for being my professor, introducing me to the idea of authority
 - [MegaMech](https://github.com/megamech), for helping me with the Mario Kart 64 decompilation
 - [MattKC](https://www.youtube.com/mattkc), for spreading the word about decompilation and recompilation, otherwise I never would have heard about it in the first place
 - The entire LEGO Island [Decompilation](https://github.com/isledecomp/isle/graphs/contributors?all=1) and [Porting](https://github.com/isledecomp/isle-portable/graphs/contributors?all=1) Team, for all the work they have done, and helping me when I needed it! I've learned so much because of you guys.
@@ -375,6 +375,8 @@ You can track diffs between individual revisions by looking at the [GitHub commi
 - kr1v, for providing writing feedback and suggestions
 
 ## Changelog
+- October 18 2026:
+	- Credited Dr. Burke.
 - October 17 2026:
 	- Corrected information about modding and static recompilation (thanks Darío Samo)
 	- Provided link to decompilation wiki, added image of "why we decompile"
