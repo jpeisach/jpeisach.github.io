@@ -394,6 +394,11 @@ You can track diffs between individual revisions by looking at the [GitHub commi
 	- Added afterword, acknowledgements, changelog
 - October 16 2026: Initial revision.
 
+## Further Reading
+You may also be interested in:
+
+- "[All My Hobbies Are Getting Slopped Up, And It’s Exhausting](https://aftermath.site/ai-slop-hobbies-in-software-emulation/)" by Chris Person
+
 # Footnotes, References
 [^6]: I initially thought you could not mod it at all, but you [can](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg). Modding APIs have been developed.
 [^7]: Good news, I have been proven wrong. [The New Tetris](https://github.com/chris-gilmore/tnt-splat) was decompiled by `chris-gilmore` manually. [Blast Corps](https://github.com/SlaveOfIDO/blastcorps) was also done solo by `SlaveOfIDO`.
@@ -403,8 +408,3 @@ You can track diffs between individual revisions by looking at the [GitHub commi
 [^3]: [include/unknown_0494b0.h of halo2-decompiled line 8](https://github.com/kirklandsig/halo2-decompiled/blob/cbf289324c0daeda080dc5ee8af7fa0ba48de596/include/unknown_0494b0.h#L8)
 [^4]: [include/actor_behavior.h of halo2-decompiled, line 28](https://github.com/kirklandsig/halo2-decompiled/blob/cbf289324c0daeda080dc5ee8af7fa0ba48de596/include/actor_behavior.h#L28)
 [^5]: [sm64ds-decomp issue #821](https://github.com/tangosdev/sm64ds-decomp/issues/821#issuecomment-5427686800)
-
-# Further Reading
-You may also be interested in:
-
-- "[All My Hobbies Are Getting Slopped Up, And It’s Exhausting](https://aftermath.site/ai-slop-hobbies-in-software-emulation/)" by Chris Person
