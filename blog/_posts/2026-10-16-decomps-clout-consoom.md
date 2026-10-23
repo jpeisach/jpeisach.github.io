@@ -293,6 +293,8 @@ And, oh no, what is this? **Effort?** and **Recognition?** And people who put in
 
 In hindsight, I really don't care about whether I got my golden trophy for my contributions to LEGO Island. Neither does the other people on the team, because again, we just want to express our love for the game by restoring its code and porting it to other platforms. We are also humans and we also want to play the game!
 
+> **October 23 2026 Update**: The issues of "clout chasing" are also being seen now that someone used an LLM to find an exploit in the Nintendo Switch operating system's filesystem module. After the discovery, people went to their agents to develop their "toolchain" or "Homebrew launcher", really just in hopes of being popular. <u>Any reasonable person in the scene would work on a communal effort, instead of rushing PoC Homebrew for their social media ratings. </u>There are tons of issues around this that are frankly off-topic for the article, but the part about using AI to make their own clout still stands.
+
 # You Consoom
 In today's age, everything is about consumption. How much time you can spend scrolling Instagram or YouTube to help those companies make money (and probably not pay content creators at all).
 
@@ -371,10 +373,16 @@ You can track diffs between individual revisions by looking at the [GitHub commi
 
 ### After Initial Release
 - [Darío Samo](https://github.com/dariosamo) for correcting me on how mods work with the N64 recomps, and providing information
+- QuestionableName76 for referring me to The Decompilation Wiki for the "Why We Decompile" image
+- [The Decompilation Wiki](https://decompilation.wiki/decompilers/dec-history-1/#applications) for the image used in "Why We Decompile"
 - queueRAM for providing counterexamples, proving that people have completely decompiled games by hand by themselves before
 - kr1v, for providing writing feedback and suggestions
 
 ## Changelog
+- October 23 2026:
+	- Credited QuestionableName76 and The Decompilation Wiki
+	- Added "further reading" section, linking "All My Hobbies Are Getting Slopped Up, And It's Exhausting"
+	- "The Clout Misconception": Added note about how people are doing the same thing with the Switch 2, but that I will not be discussing the issues of that in this post.
 - October 18 2026:
 	- Credited Dr. Burke.
 - October 17 2026:
@@ -396,3 +404,7 @@ You can track diffs between individual revisions by looking at the [GitHub commi
 [^4]: [include/actor_behavior.h of halo2-decompiled, line 28](https://github.com/kirklandsig/halo2-decompiled/blob/cbf289324c0daeda080dc5ee8af7fa0ba48de596/include/actor_behavior.h#L28)
 [^5]: [sm64ds-decomp issue #821](https://github.com/tangosdev/sm64ds-decomp/issues/821#issuecomment-5427686800)
 
+# Further Reading
+You may also be interested in:
+
+- "[All My Hobbies Are Getting Slopped Up, And It’s Exhausting](https://aftermath.site/ai-slop-hobbies-in-software-emulation/)" by Chris Person
